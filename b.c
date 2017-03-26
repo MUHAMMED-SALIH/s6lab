@@ -71,4 +71,4 @@ for(i=0;i<k;i++)
 printf(" P[%d] ",output[i]);
 printf(">");
 getch();
-}
+} https://gist.github.com/pallabpain/68909d4ac6ff77c9aa40
